@@ -1,1 +1,3 @@
-# flippa-gif-backend
+# README
+
+Backend API for Flippa Gif
