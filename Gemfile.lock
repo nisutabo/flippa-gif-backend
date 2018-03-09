@@ -50,7 +50,7 @@ GEM
       activesupport
     concurrent-ruby (1.0.5)
     crass (1.0.3)
-    erubi (1.7.0)
+    erubi (1.7.1)
     ffi (1.9.23)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
@@ -74,7 +74,7 @@ GEM
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     pg (1.0.0)
-    puma (3.11.2)
+    puma (3.11.3)
     rack (2.0.4)
     rack-cors (1.0.2)
     rack-test (0.8.3)
